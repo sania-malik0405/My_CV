@@ -22,16 +22,16 @@ https://github.com/user-attachments/assets/ee613efb-836c-4a4c-9f55-484dc42ec356
 ---
 
 ## 🛠️ Tech Stack
-- Flutter  
-- Dart  
+- Flutter
+- Dart
 
 ---
 
 ## 🚀 Features
-- Multiple profile card screens  
-- Clean and simple UI design  
-- Beginner-friendly Flutter project  
-- Responsive layout  
+- Multiple profile card screens
+- Clean and simple UI design
+- Beginner-friendly Flutter project
+- Responsive layout
 
 ---
 
